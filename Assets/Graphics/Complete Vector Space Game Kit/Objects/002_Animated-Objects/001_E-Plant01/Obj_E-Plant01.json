@@ -1,0 +1,38 @@
+{"skeleton":{"images":"images/"},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"b_leaf_b","bone":"root","attachment":"b_leaf_b"},
+	{"name":"stem","bone":"root","attachment":"stem"},
+	{"name":"b_leaf_f","bone":"root","attachment":"b_leaf_f"},
+	{"name":"p-a","bone":"root","attachment":"p-a"},
+	{"name":"p-f","bone":"root","attachment":"p-f"},
+	{"name":"outside mouth","bone":"root","attachment":"outside mouth"},
+	{"name":"upper teeth","bone":"root","attachment":"upper teeth"},
+	{"name":"lower teeth","bone":"root","attachment":"lower teeth"},
+	{"name":"p-e2","bone":"root","attachment":"p-e2"},
+	{"name":"head","bone":"root","attachment":"head"},
+	{"name":"p-c","bone":"root","attachment":"p-c"},
+	{"name":"p-d","bone":"root","attachment":"p-d"},
+	{"name":"p-e1","bone":"root","attachment":"p-e1"},
+	{"name":"regmarks","bone":"root","attachment":"regmarks"}
+],
+"skins":{
+	"default":{
+		"regmarks":{"regmarks":{"x":17,"y":142,"width":114,"height":246}},
+		"p-e1":{"p-e1":{"x":37.0000000000001,"y":487,"width":158,"height":174}},
+		"p-d":{"p-d":{"x":-80.4999999999999,"y":398,"width":135,"height":194}},
+		"p-c":{"p-c":{"x":-119.5,"y":271.5,"width":119,"height":155}},
+		"head":{"head":{"x":76.0000000000001,"y":318.5,"width":404,"height":349}},
+		"p-e2":{"p-e2":{"x":46.5000000000001,"y":487.5,"width":177,"height":175}},
+		"lower teeth":{"lower teeth":{"x":172,"y":202,"width":158,"height":68}},
+		"upper teeth":{"upper teeth":{"x":177.5,"y":271.5,"width":189,"height":73}},
+		"outside mouth":{"outside mouth":{"x":152.5,"y":239.5,"width":211,"height":127}},
+		"p-f":{"p-f":{"x":-4.49999999999994,"y":194,"width":117,"height":106}},
+		"p-a":{"p-a":{"x":177.5,"y":440,"width":113,"height":116}},
+		"b_leaf_f":{"b_leaf_f":{"x":-41.4999999999999,"y":63,"width":193,"height":122}},
+		"stem":{"stem":{"x":17.0000000000001,"y":142,"width":132,"height":264}},
+		"b_leaf_b":{"b_leaf_b":{"x":82.5000000000001,"y":67.9999999999999,"width":159,"height":116}}
+	}
+},
+"animations":{"animation":{}}
+}

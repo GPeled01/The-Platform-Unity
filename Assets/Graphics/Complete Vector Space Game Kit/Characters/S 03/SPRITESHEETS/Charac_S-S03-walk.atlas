@@ -1,0 +1,253 @@
+
+Charac_S-S03-walk.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S03-walk_0
+  rotate: false
+  xy: 2, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_30
+  rotate: false
+  xy: 2, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_1
+  rotate: false
+  xy: 363, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_2
+  rotate: false
+  xy: 724, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_3
+  rotate: false
+  xy: 1085, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_4
+  rotate: false
+  xy: 1446, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+
+Charac_S-S03-walk2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S03-walk_5
+  rotate: false
+  xy: 2, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_6
+  rotate: false
+  xy: 363, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_7
+  rotate: false
+  xy: 724, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_8
+  rotate: false
+  xy: 1085, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_9
+  rotate: false
+  xy: 1446, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+
+Charac_S-S03-walk3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S03-walk_10
+  rotate: false
+  xy: 2, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_11
+  rotate: false
+  xy: 363, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_12
+  rotate: false
+  xy: 724, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_13
+  rotate: false
+  xy: 1085, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_14
+  rotate: false
+  xy: 1446, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+
+Charac_S-S03-walk4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S03-walk_15
+  rotate: false
+  xy: 2, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_16
+  rotate: false
+  xy: 363, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_17
+  rotate: false
+  xy: 724, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_18
+  rotate: false
+  xy: 1085, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_19
+  rotate: false
+  xy: 1446, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+
+Charac_S-S03-walk5.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S03-walk_20
+  rotate: false
+  xy: 2, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_21
+  rotate: false
+  xy: 363, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_22
+  rotate: false
+  xy: 724, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_23
+  rotate: false
+  xy: 1085, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_24
+  rotate: false
+  xy: 1446, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+
+Charac_S-S03-walk6.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S03-walk_25
+  rotate: false
+  xy: 2, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_26
+  rotate: false
+  xy: 363, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_27
+  rotate: false
+  xy: 724, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_28
+  rotate: false
+  xy: 1085, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1
+Charac_S-S03-walk_29
+  rotate: false
+  xy: 1446, 2
+  size: 359, 552
+  orig: 359, 552
+  offset: 0, 0
+  index: -1

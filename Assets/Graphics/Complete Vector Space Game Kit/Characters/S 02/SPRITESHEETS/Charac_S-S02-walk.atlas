@@ -1,0 +1,253 @@
+
+Charac_S-S02-walk.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S02-walk_0
+  rotate: false
+  xy: 2, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_30
+  rotate: false
+  xy: 2, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_1
+  rotate: false
+  xy: 352, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_2
+  rotate: false
+  xy: 702, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_3
+  rotate: false
+  xy: 1052, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_4
+  rotate: false
+  xy: 1402, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+
+Charac_S-S02-walk2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S02-walk_5
+  rotate: false
+  xy: 2, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_6
+  rotate: false
+  xy: 352, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_7
+  rotate: false
+  xy: 702, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_8
+  rotate: false
+  xy: 1052, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_9
+  rotate: false
+  xy: 1402, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+
+Charac_S-S02-walk3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S02-walk_10
+  rotate: false
+  xy: 2, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_11
+  rotate: false
+  xy: 352, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_12
+  rotate: false
+  xy: 702, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_13
+  rotate: false
+  xy: 1052, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_14
+  rotate: false
+  xy: 1402, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+
+Charac_S-S02-walk4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S02-walk_15
+  rotate: false
+  xy: 2, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_16
+  rotate: false
+  xy: 352, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_17
+  rotate: false
+  xy: 702, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_18
+  rotate: false
+  xy: 1052, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_19
+  rotate: false
+  xy: 1402, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+
+Charac_S-S02-walk5.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S02-walk_20
+  rotate: false
+  xy: 2, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_21
+  rotate: false
+  xy: 352, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_22
+  rotate: false
+  xy: 702, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_23
+  rotate: false
+  xy: 1052, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_24
+  rotate: false
+  xy: 1402, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+
+Charac_S-S02-walk6.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S02-walk_25
+  rotate: false
+  xy: 2, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_26
+  rotate: false
+  xy: 352, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_27
+  rotate: false
+  xy: 702, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_28
+  rotate: false
+  xy: 1052, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1
+Charac_S-S02-walk_29
+  rotate: false
+  xy: 1402, 2
+  size: 348, 534
+  orig: 348, 534
+  offset: 0, 0
+  index: -1

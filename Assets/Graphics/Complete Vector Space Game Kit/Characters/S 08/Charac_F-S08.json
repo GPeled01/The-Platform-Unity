@@ -1,0 +1,36 @@
+{"skeleton":{"images":"images2/"},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"left leg","bone":"root","attachment":"left leg"},
+	{"name":"left foot","bone":"root","attachment":"left foot"},
+	{"name":"right leg","bone":"root","attachment":"right leg"},
+	{"name":"right foot","bone":"root","attachment":"right foot"},
+	{"name":"back","bone":"root","attachment":"back"},
+	{"name":"eyes","bone":"root","attachment":"eyes"},
+	{"name":"irises","bone":"root","attachment":"irises"},
+	{"name":"body","bone":"root","attachment":"body"},
+	{"name":"left thigh","bone":"root","attachment":"left thigh"},
+	{"name":"left arm","bone":"root","attachment":"left arm"},
+	{"name":"right thigh","bone":"root","attachment":"right thigh"},
+	{"name":"right arm","bone":"root","attachment":"right arm"},
+	{"name":"reg marks","bone":"root","attachment":"reg marks"}
+],
+"skins":{
+	"default":{
+		"reg marks":{"reg marks":{"x":172,"y":-463.5,"width":234,"height":133}},
+		"right arm":{"right arm":{"x":33.5,"y":-345.5,"width":67,"height":163}},
+		"right thigh":{"right thigh":{"x":82,"y":-442.5,"width":66,"height":93}},
+		"left arm":{"left arm":{"x":312.5,"y":-345.5,"width":67,"height":163}},
+		"left thigh":{"left thigh":{"x":262,"y":-442.5,"width":66,"height":93}},
+		"body":{"body":{"x":173,"y":-266.5,"width":262,"height":381}},
+		"irises":{"irises":{"x":173.5,"y":-229.5,"width":211,"height":137}},
+		"eyes":{"eyes":{"x":173,"y":-216,"width":214,"height":166}},
+		"back":{"back":{"x":218.5,"y":-127.5,"width":221,"height":259}},
+		"right foot":{"right foot":{"x":93.4999999999999,"y":-519,"width":135,"height":54}},
+		"right leg":{"right leg":{"x":104.5,"y":-485,"width":111,"height":98}},
+		"left foot":{"left foot":{"x":249.5,"y":-519,"width":135,"height":54}},
+		"left leg":{"left leg":{"x":237.5,"y":-485,"width":111,"height":98}}
+	}
+},
+"animations":{"animation":{}}
+}

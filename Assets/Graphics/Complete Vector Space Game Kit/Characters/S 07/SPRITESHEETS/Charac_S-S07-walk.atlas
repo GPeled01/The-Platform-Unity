@@ -1,0 +1,247 @@
+
+Charac_S-S07-walk.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S07-walk_0
+  rotate: false
+  xy: 2, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_30
+  rotate: false
+  xy: 2, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_1
+  rotate: false
+  xy: 302, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_2
+  rotate: false
+  xy: 602, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_3
+  rotate: false
+  xy: 902, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_4
+  rotate: false
+  xy: 1202, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_5
+  rotate: false
+  xy: 1502, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+
+Charac_S-S07-walk2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S07-walk_10
+  rotate: false
+  xy: 1202, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_11
+  rotate: false
+  xy: 1502, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_6
+  rotate: false
+  xy: 2, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_7
+  rotate: false
+  xy: 302, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_8
+  rotate: false
+  xy: 602, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_9
+  rotate: false
+  xy: 902, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+
+Charac_S-S07-walk3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S07-walk_12
+  rotate: false
+  xy: 2, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_13
+  rotate: false
+  xy: 302, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_14
+  rotate: false
+  xy: 602, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_15
+  rotate: false
+  xy: 902, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_16
+  rotate: false
+  xy: 1202, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_17
+  rotate: false
+  xy: 1502, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+
+Charac_S-S07-walk4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S07-walk_18
+  rotate: false
+  xy: 2, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_19
+  rotate: false
+  xy: 302, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_20
+  rotate: false
+  xy: 602, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_21
+  rotate: false
+  xy: 902, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_22
+  rotate: false
+  xy: 1202, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_23
+  rotate: false
+  xy: 1502, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+
+Charac_S-S07-walk5.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S07-walk_24
+  rotate: false
+  xy: 2, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_25
+  rotate: false
+  xy: 302, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_26
+  rotate: false
+  xy: 602, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_27
+  rotate: false
+  xy: 902, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_28
+  rotate: false
+  xy: 1202, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1
+Charac_S-S07-walk_29
+  rotate: false
+  xy: 1502, 2
+  size: 298, 545
+  orig: 298, 545
+  offset: 0, 0
+  index: -1

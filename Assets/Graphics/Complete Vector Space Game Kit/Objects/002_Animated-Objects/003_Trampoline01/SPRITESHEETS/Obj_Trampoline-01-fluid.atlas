@@ -1,0 +1,399 @@
+
+Obj_Trampoline-01-fluid.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-01-fluid_0
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_1
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_2
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_3
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_4
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_45
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_46
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_47
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_48
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_49
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_5
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_50
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_6
+  rotate: false
+  xy: 641, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_44
+  rotate: false
+  xy: 641, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_7
+  rotate: false
+  xy: 1280, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_43
+  rotate: false
+  xy: 1280, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-01-fluid2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-01-fluid_10
+  rotate: false
+  xy: 1280, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_40
+  rotate: false
+  xy: 1280, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_8
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_42
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_9
+  rotate: false
+  xy: 641, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-01-fluid3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-01-fluid_11
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_39
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_12
+  rotate: false
+  xy: 641, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_38
+  rotate: false
+  xy: 641, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_13
+  rotate: false
+  xy: 1280, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_37
+  rotate: false
+  xy: 1280, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-01-fluid4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-01-fluid_14
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_15
+  rotate: false
+  xy: 641, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_35
+  rotate: false
+  xy: 641, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_16
+  rotate: false
+  xy: 1280, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_34
+  rotate: false
+  xy: 1280, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-01-fluid5.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-01-fluid_17
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_18
+  rotate: false
+  xy: 641, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_32
+  rotate: false
+  xy: 641, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_19
+  rotate: false
+  xy: 1280, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-01-fluid6.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-01-fluid_20
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_21
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_22
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_23
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_24
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_25
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_26
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_27
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_28
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_29
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_30
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_31
+  rotate: false
+  xy: 641, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_33
+  rotate: false
+  xy: 1280, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-01-fluid7.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-01-fluid_36
+  rotate: false
+  xy: 2, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-01-fluid_41
+  rotate: false
+  xy: 641, 2
+  size: 637, 727
+  orig: 637, 727
+  offset: 0, 0
+  index: -1

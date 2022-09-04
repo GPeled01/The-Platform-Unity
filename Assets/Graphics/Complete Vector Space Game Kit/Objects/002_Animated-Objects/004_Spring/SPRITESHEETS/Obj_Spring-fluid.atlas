@@ -1,0 +1,375 @@
+
+Obj_Spring-fluid.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Spring-fluid_0
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_1
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_2
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_3
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_4
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_45
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_46
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_47
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_48
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_49
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_5
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_50
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_10
+  rotate: false
+  xy: 1172, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_40
+  rotate: false
+  xy: 1172, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_6
+  rotate: false
+  xy: 2, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_44
+  rotate: false
+  xy: 2, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_7
+  rotate: false
+  xy: 587, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_43
+  rotate: false
+  xy: 587, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_8
+  rotate: false
+  xy: 587, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_42
+  rotate: false
+  xy: 587, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_9
+  rotate: false
+  xy: 1172, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_41
+  rotate: false
+  xy: 1172, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+
+Obj_Spring-fluid2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Spring-fluid_11
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_39
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_12
+  rotate: false
+  xy: 2, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_38
+  rotate: false
+  xy: 2, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_13
+  rotate: false
+  xy: 587, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_37
+  rotate: false
+  xy: 587, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_14
+  rotate: false
+  xy: 587, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_36
+  rotate: false
+  xy: 587, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_15
+  rotate: false
+  xy: 1172, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_35
+  rotate: false
+  xy: 1172, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_16
+  rotate: false
+  xy: 1172, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_34
+  rotate: false
+  xy: 1172, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+
+Obj_Spring-fluid3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Spring-fluid_17
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_33
+  rotate: false
+  xy: 2, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_18
+  rotate: false
+  xy: 2, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_19
+  rotate: false
+  xy: 587, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_31
+  rotate: false
+  xy: 587, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_20
+  rotate: false
+  xy: 587, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_21
+  rotate: false
+  xy: 587, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_22
+  rotate: false
+  xy: 587, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_23
+  rotate: false
+  xy: 587, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_24
+  rotate: false
+  xy: 587, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_25
+  rotate: false
+  xy: 587, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_26
+  rotate: false
+  xy: 587, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_27
+  rotate: false
+  xy: 587, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_28
+  rotate: false
+  xy: 587, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_29
+  rotate: false
+  xy: 587, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_30
+  rotate: false
+  xy: 587, 2
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1
+Obj_Spring-fluid_32
+  rotate: false
+  xy: 1172, 501
+  size: 583, 497
+  orig: 583, 497
+  offset: 0, 0
+  index: -1

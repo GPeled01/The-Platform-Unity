@@ -1,0 +1,447 @@
+
+Obj_Trampoline-02-bounce.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-02-bounce_0
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_50
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_1
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_2
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-02-bounce2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-02-bounce_3
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_4
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_5
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-02-bounce3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-02-bounce_6
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_7
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_8
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-02-bounce4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-02-bounce_10
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_11
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_9
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-02-bounce5.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-02-bounce_12
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_13
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_14
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-02-bounce6.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-02-bounce_15
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_16
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_17
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-02-bounce7.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-02-bounce_18
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_19
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_31
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_20
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_30
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-02-bounce8.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-02-bounce_21
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_29
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_22
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_23
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_27
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-02-bounce9.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-02-bounce_24
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_26
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_25
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_28
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-02-bounce10.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-02-bounce_32
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_33
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_34
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-02-bounce11.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-02-bounce_35
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_36
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_37
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-02-bounce12.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-02-bounce_38
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_39
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_40
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-02-bounce13.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-02-bounce_41
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_42
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_43
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-02-bounce14.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-02-bounce_44
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_45
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_46
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+
+Obj_Trampoline-02-bounce15.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_Trampoline-02-bounce_47
+  rotate: false
+  xy: 2, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_48
+  rotate: false
+  xy: 583, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1
+Obj_Trampoline-02-bounce_49
+  rotate: false
+  xy: 1164, 2
+  size: 579, 685
+  orig: 579, 685
+  offset: 0, 0
+  index: -1

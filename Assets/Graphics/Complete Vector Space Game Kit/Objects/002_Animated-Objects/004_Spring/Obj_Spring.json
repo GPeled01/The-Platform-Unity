@@ -1,0 +1,30 @@
+{"skeleton":{"images":"images/"},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"spr-04b","bone":"root","attachment":"spr-04b"},
+	{"name":"spr-03b","bone":"root","attachment":"spr-03b"},
+	{"name":"spr-02b","bone":"root","attachment":"spr-02b"},
+	{"name":"spr-01b","bone":"root","attachment":"spr-01b"},
+	{"name":"spr-01a","bone":"root","attachment":"spr-01a"},
+	{"name":"spr-02a","bone":"root","attachment":"spr-02a"},
+	{"name":"spr-03a","bone":"root","attachment":"spr-03a"},
+	{"name":"spr-04a","bone":"root","attachment":"spr-04a"},
+	{"name":"base","bone":"root","attachment":"base"},
+	{"name":"platform","bone":"root","attachment":"platform"}
+],
+"skins":{
+	"default":{
+		"platform":{"platform":{"x":2.5,"y":216,"width":583,"height":96}},
+		"base":{"base":{"x":2,"y":24,"width":572,"height":48}},
+		"spr-04a":{"spr-04a":{"x":2.5,"y":202.5,"width":345,"height":57}},
+		"spr-03a":{"spr-03a":{"x":2.5,"y":57.5,"width":345,"height":57}},
+		"spr-02a":{"spr-02a":{"x":2.5,"y":154.5,"width":345,"height":57}},
+		"spr-01a":{"spr-01a":{"x":2.5,"y":104.5,"width":345,"height":57}},
+		"spr-01b":{"spr-01b":{"x":2.5,"y":84.5,"width":281,"height":45}},
+		"spr-02b":{"spr-02b":{"x":2.5,"y":133.5,"width":281,"height":45}},
+		"spr-03b":{"spr-03b":{"x":2.5,"y":36.5,"width":281,"height":45}},
+		"spr-04b":{"spr-04b":{"x":2.5,"y":181.5,"width":281,"height":45}}
+	}
+},
+"animations":{"animation":{}}
+}

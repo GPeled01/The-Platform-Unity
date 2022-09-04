@@ -1,0 +1,277 @@
+
+Obj_E-Plant01-bite.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_E-Plant01-bite_0
+  rotate: false
+  xy: 2, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_30
+  rotate: false
+  xy: 2, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_1
+  rotate: false
+  xy: 648, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_2
+  rotate: false
+  xy: 1294, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+
+Obj_E-Plant01-bite2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_E-Plant01-bite_3
+  rotate: false
+  xy: 2, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_4
+  rotate: false
+  xy: 648, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_5
+  rotate: false
+  xy: 1294, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+
+Obj_E-Plant01-bite3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_E-Plant01-bite_6
+  rotate: false
+  xy: 2, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_7
+  rotate: false
+  xy: 648, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_8
+  rotate: false
+  xy: 1294, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+
+Obj_E-Plant01-bite4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_E-Plant01-bite_10
+  rotate: false
+  xy: 648, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_11
+  rotate: false
+  xy: 1294, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_9
+  rotate: false
+  xy: 2, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+
+Obj_E-Plant01-bite5.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_E-Plant01-bite_12
+  rotate: false
+  xy: 2, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_13
+  rotate: false
+  xy: 648, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_14
+  rotate: false
+  xy: 1294, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+
+Obj_E-Plant01-bite6.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_E-Plant01-bite_15
+  rotate: false
+  xy: 2, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_16
+  rotate: false
+  xy: 648, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_17
+  rotate: false
+  xy: 1294, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+
+Obj_E-Plant01-bite7.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_E-Plant01-bite_18
+  rotate: false
+  xy: 2, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_19
+  rotate: false
+  xy: 648, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_20
+  rotate: false
+  xy: 1294, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+
+Obj_E-Plant01-bite8.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_E-Plant01-bite_21
+  rotate: false
+  xy: 2, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_22
+  rotate: false
+  xy: 648, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_23
+  rotate: false
+  xy: 1294, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+
+Obj_E-Plant01-bite9.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_E-Plant01-bite_24
+  rotate: false
+  xy: 2, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_25
+  rotate: false
+  xy: 648, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_26
+  rotate: false
+  xy: 1294, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+
+Obj_E-Plant01-bite10.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Obj_E-Plant01-bite_27
+  rotate: false
+  xy: 2, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_28
+  rotate: false
+  xy: 648, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1
+Obj_E-Plant01-bite_29
+  rotate: false
+  xy: 1294, 2
+  size: 644, 627
+  orig: 644, 627
+  offset: 0, 0
+  index: -1

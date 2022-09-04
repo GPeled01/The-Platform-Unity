@@ -1,0 +1,259 @@
+
+Charac_S-S06-Jump.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S06-Jump_0
+  rotate: false
+  xy: 2, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_30
+  rotate: false
+  xy: 2, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_1
+  rotate: false
+  xy: 464, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_2
+  rotate: false
+  xy: 926, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_3
+  rotate: false
+  xy: 1388, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+
+Charac_S-S06-Jump2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S06-Jump_4
+  rotate: false
+  xy: 2, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_5
+  rotate: false
+  xy: 464, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_6
+  rotate: false
+  xy: 926, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_7
+  rotate: false
+  xy: 1388, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+
+Charac_S-S06-Jump3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S06-Jump_10
+  rotate: false
+  xy: 926, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_11
+  rotate: false
+  xy: 1388, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_8
+  rotate: false
+  xy: 2, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_9
+  rotate: false
+  xy: 464, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+
+Charac_S-S06-Jump4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S06-Jump_12
+  rotate: false
+  xy: 2, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_13
+  rotate: false
+  xy: 464, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_14
+  rotate: false
+  xy: 926, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_15
+  rotate: false
+  xy: 1388, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+
+Charac_S-S06-Jump5.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S06-Jump_16
+  rotate: false
+  xy: 2, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_17
+  rotate: false
+  xy: 464, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_18
+  rotate: false
+  xy: 926, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_24
+  rotate: false
+  xy: 926, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_19
+  rotate: false
+  xy: 1388, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_23
+  rotate: false
+  xy: 1388, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+
+Charac_S-S06-Jump6.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S06-Jump_20
+  rotate: false
+  xy: 2, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_22
+  rotate: false
+  xy: 2, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_21
+  rotate: false
+  xy: 464, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_25
+  rotate: false
+  xy: 926, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_26
+  rotate: false
+  xy: 1388, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+
+Charac_S-S06-Jump7.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Charac_S-S06-Jump_27
+  rotate: false
+  xy: 2, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_28
+  rotate: false
+  xy: 464, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
+Charac_S-S06-Jump_29
+  rotate: false
+  xy: 926, 2
+  size: 460, 768
+  orig: 460, 768
+  offset: 0, 0
+  index: -1
